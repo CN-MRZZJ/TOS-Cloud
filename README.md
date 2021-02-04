@@ -14,7 +14,7 @@ Powered By TOS
 
 **Free32GiB HardDisk**
 
-**Windows Server Free Install(Only Once) **
+**Windows Server Free Install(Only Once)**
 
 E.G.
 
